@@ -1,0 +1,31 @@
+.hide { 
+  display: none;
+}
+
+.show {
+  display: inline-block;
+}
+
+#hadithBody{
+  max-height: 80vh;
+  padding: 10px 10px;
+  margin: 0 10%;
+  overflow: auto;
+  z-index: 2;
+}
+
+.textStyle{
+  line-height: 30px;
+  word-spacing: 3px;
+  font-size: medium;
+  padding: 10px;
+}
+
+#body{
+  line-height: 40px;
+  word-spacing: 5px;
+  font-size: larger;
+}
+#body p {
+  padding: 10px;
+}
