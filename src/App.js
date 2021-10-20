@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react';
 import './App.css';
 
 //import components  
-import Display from './Components/Display/Display'
+import Display from './Components/Display/display'
 
 function App() {
 
