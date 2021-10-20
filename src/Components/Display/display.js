@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react';
 import './display.css'
 import {randomImageURL} from './Images/images'
 //import components
-import HadithButton from '../Button/HadithButton';
+import HadithButton from '../Button/hadithButton';
 import HadithBody from './HadithBody/HadithBody';
 
 
